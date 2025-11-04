@@ -1,0 +1,11 @@
+
+  # Create Comprehensive Hospital Dashboard
+
+  This is a code bundle for Create Comprehensive Hospital Dashboard. The original project is available at https://www.figma.com/design/703z6ObxSqVGVteUDqOHIE/Create-Comprehensive-Hospital-Dashboard.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
